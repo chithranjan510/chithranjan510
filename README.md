@@ -1,8 +1,8 @@
 
-<h1>Hi there 👋</h1>
+<h2>Hi there 👋</h2>
 <p>I'm <b>Chithranjan Kumar</b>, an aspiring frontend developer from India and currently learning and working on my skills so as to become an awesome developer in coming days.</p>
 
-<h1>My Skills</h1>
+<h2>My Skills</h2>
 
 ```
 language : [ Javascript, C++ ]
@@ -13,7 +13,7 @@ stateManagement: [ Redux ]
 
 markup: [ HTML, JSX ]
 
-styling: [ CSS, Bootstrap(ongoing) ],
+styling: [ CSS, Bootstrap(ongoing) ]
 
 tools : [ Git, Postman ]
 ```
