@@ -13,7 +13,7 @@ stateManagement: [ Redux ]
 
 markup: [ HTML, JSX ]
 
-styling: [ CSS, Bootstrap, Sass ]
+styling: [ CSS, Bootstrap(basic), Sass(basic) ]
 
 tools : [ Git, Postman ]
 ```
