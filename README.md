@@ -5,9 +5,11 @@
 <h2>My Skills</h2>
 
 ```
-language : [ Javascript, C++ ]
+language : [ TypeScript, Javascript, C++, C ]
 
-JSFramework : [ ReactJS ]
+JSFramework : [ NextJS, ReactJS ]
+
+CSSFramework : [ ChakraUI ]
 
 stateManagement: [ Redux ]
 
@@ -15,7 +17,7 @@ markup: [ HTML, JSX ]
 
 styling: [ CSS, Bootstrap(basic), Sass(basic) ]
 
-tools : [ Git, Postman ]
+tools : [ Git, Postman, Figma ]
 ```
 
 [![LinkedIn Account](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/chithranjan-kumar-039667259/)
