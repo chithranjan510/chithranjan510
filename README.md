@@ -5,13 +5,13 @@
 <h2>My Skills</h2>
 
 ```
-language : [ TypeScript, Javascript, C++, C ]
+language : [ TypeScript, Javascript, C++, C , Java]
 
 JSFramework : [ NextJS, ReactJS ]
 
 CSSFramework : [ ChakraUI ]
 
-stateManagement: [ Redux ]
+stateManagement: [ Redux, Context API ]
 
 markup: [ HTML, JSX ]
 
