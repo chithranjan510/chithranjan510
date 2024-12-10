@@ -9,15 +9,13 @@ language : [ TypeScript, Javascript, C++, C , Java]
 
 JSFramework : [ NextJS, ReactJS ]
 
-CSSFramework : [ ChakraUI ]
+styling: [ CSS, Tailwind CSS, Chakra UI ]
 
 stateManagement: [ Redux, Context API ]
 
 markup: [ HTML, JSX ]
 
-styling: [ CSS, Bootstrap(basic), Sass(basic) ]
-
-tools : [ Git, Postman, Figma ]
+tools : [ Git, GitHub, Postman, Figma, Socket.IO ]
 ```
 
 [![LinkedIn Account](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/chithranjan-kumar-039667259/)
